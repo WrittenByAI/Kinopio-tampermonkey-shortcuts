@@ -25,6 +25,6 @@ To get them working, you'll need to:
 2. Create a new script in Tampermonkey and paste in this code.  
 3. Restart browser
 
-Everything is working for me in Edge on Windows. It might not work for everyone, as the shortcuts could potentially conflict if they are already assigned to other functions on your system or in your browser.  
+Everything is working for me in Edge on Windows 11. It might not work for everyone, as the shortcuts could potentially conflict if they are already assigned to other functions on your system or in your browser.  
 This script relies on the current HTML structure and element attributes of the Kinopio website. Future updates to Kinopio may change this structure and could require the script to be updated to continue working correctly.  
 To change the shortcuts to the ones you want, just drop the code from TampermonkeyScript.user.js into Gemini and ask it to do it for you!
