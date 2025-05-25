@@ -21,9 +21,9 @@ Spaces: Alt + `
 
 To get them working, you'll need to:
 
-1.Download the Tampermonkey browser extension.   
+1. Download the Tampermonkey browser extension.   
 2. Create a new script in Tampermonkey and paste in this code.  
 3. Restart browser
 
-Everything is working for me in Edge on Windows. It might not work for everyone, as the shortcuts could potentially conflict if they are already assigned to other functions on your system or in your browser.
-"To change the shortcuts to the ones you want, just drop the code from TampermonkeyScript.user.js into Gemini and ask it to do it for you!"
+Everything is working for me in Edge on Windows. It might not work for everyone, as the shortcuts could potentially conflict if they are already assigned to other functions on your system or in your browser.  
+To change the shortcuts to the ones you want, just drop the code from TampermonkeyScript.user.js into Gemini and ask it to do it for you!
